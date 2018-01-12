@@ -1,1 +1,4 @@
-###### digitalliteracy_homework
+# digitalliteracy_homework
+* red
+* white
+* black
