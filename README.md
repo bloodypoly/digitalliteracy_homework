@@ -2,4 +2,5 @@
 * red
 * white
 * black
-[file](github.com)
+
+ [file](http://github.com/ "Ссылка на гитхаб")
